@@ -9,7 +9,8 @@ Hidrogênio -> H
 ├──src
 │   ├──banco.py
 │   └──main.py
-README.md
+├──.gitignore
+└──README.md
 ```
 # Como executar
 ```bash
