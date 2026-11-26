@@ -1,4 +1,4 @@
-from banco import elementos_quimicos, mapa_acentos, alfabeto
+from src.banco import elementos_quimicos, mapa_acentos, alfabeto
 
 def limpar_acentos(texto):
   novo_elemento_input = ""
