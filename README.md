@@ -8,7 +8,7 @@ Software de busca de elementos químicos da tabela periódica.
 ```text
 Hidrogênio -> H
 ```
-# Tree
+# Tree:
 ```text
 ├──src
 │   ├──banco.py
@@ -16,7 +16,12 @@ Hidrogênio -> H
 ├──.gitignore
 └──README.md
 ```
-# Como executar
+# Como executar:
+```bash
+python main.py
+```
+ou
+
 ```bash
 python3 main.py
 ```
